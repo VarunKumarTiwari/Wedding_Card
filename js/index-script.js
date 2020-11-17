@@ -146,12 +146,12 @@ link.click(function() {
 --------------------------------------------------------------*/
 	$('#clock').countDown({  
         targetDate: {
-            'day'   : 1,
-            'month' : 6,
-            'year'  : 2016,
-            'hour'  : 0,
-            'min'   : 0,
-            'sec'   : 0
+            'day'   : 10,
+            'month' : 12,
+            'year'  : 2020,
+            'hour'  : 1,
+            'min'   : 1,
+            'sec'   : 1
         },
         omitWeeks: true
     });
